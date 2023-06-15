@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Generador dfe numeros aleatorios/1.0.0": {
+        "runtime": {
+          "Generador dfe numeros aleatorios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generador dfe numeros aleatorios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
